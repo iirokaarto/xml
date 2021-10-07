@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<document>
+<server id="34">East</server>
+<character id ="21">
+<name value="name">Irppa</name>
+<gender id="1">male</gender>
+<race id="2">human</race>
+<class id="1">rogue</class>
+<stats>
+<hitpoints amount ="540">Health
+</hitpoints>
+<strength amount ="87">Strength</strength>
+</stats>
+<gear id="21"></gear>
+<helmet>rune full helm</helmet>
+<torso>Rune platebody</torso>
+<legs>rune platelegs</legs>
+
+</character>

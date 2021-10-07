@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<document>
+<meta> 
+<title>lentolippu
+</title>
+</meta>
+<flight>
+<from id ="15">Vantaa</from>
+<to id="32">Varsova</to> 
+<duedate>
+<month>11</month>
+<hour>12</hour>
+<min>15</min>
+</duedate>
+</flight>
+<passenger>
+<lastname>iiro</lastname>
+<firstname>kaarto</lastname>
+</passenger>
+<pricedata>
+<price>789€</price>
+<tax>78,9€</price>
+</pricedate>
